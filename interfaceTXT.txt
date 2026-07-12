@@ -34,7 +34,6 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 新昌综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
-湖州公共频道,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
@@ -248,6 +247,7 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 山西地区,#genre#
 天津地区,#genre#
 天津影视,http://60.26.15.49:85/tsfile/live/17/1003.m3u8?key=txiptv
+天津都市,http://60.26.15.49:85/tsfile/live/21/1004.m3u8?key=txiptv
 天津教育,http://60.26.15.49:85/tsfile/live/29/1006.m3u8?key=txiptv
 贵州地区,#genre#
 海南地区,#genre#
@@ -294,7 +294,6 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 宁夏地区,#genre#
 青海地区,#genre#
 超清频道,#genre#
-CCTV17超清,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14805790068_strL_GameAvcFhdL0.flv?txSecret=87046caf37e9c92c23162ccbc1ba7cf6&txTime=6a544165&stat=h2TB1uBN5ALE%2B2rLOlu9qidSPO5fSxyouAMUzZdLUYmXL5c85n9AinN0%2FTQhzsR3&tsc=origin&oidc=watchmen&sidc=2062&no_script=1&srcStrm=Pghwg4dfMos&ss=s20&tfc_buyer=0
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
