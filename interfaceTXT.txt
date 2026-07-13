@@ -130,14 +130,11 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 迁西农业,https://jwcdnqx.hebyun.com.cn/live/qxny/1500k/tzwj_video.m3u8
 青县综合,http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 福建地区,#genre#
-龙岩综合,http://stream.lytv.net.cn/2/sd/live.m3u8
 河南地区,#genre#
 济源综合,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 兰考综合,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
 兰考综合,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
-洛阳科教,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
-洛阳文旅,http://devlivepull.migucloud.com/live/Q081CD54_C0.flv
 伊川综合,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
 伊川综合,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
 长垣综合,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
@@ -251,7 +248,8 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 山西地区,#genre#
 天津地区,#genre#
 天津影视,http://60.26.15.49:85/tsfile/live/17/1003.m3u8?key=txiptv
-津南电视台,http://play.jinnantv.top/live/JNTV1.m3u8
+天津都市,http://60.26.15.49:85/tsfile/live/21/1004.m3u8?key=txiptv
+天津教育,http://60.26.15.49:85/tsfile/live/29/1006.m3u8?key=txiptv
 贵州地区,#genre#
 海南地区,#genre#
 甘肃地区,#genre#
@@ -297,7 +295,6 @@ CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
 宁夏地区,#genre#
 青海地区,#genre#
 超清频道,#genre#
-CCTV1超清,https://ws-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14810455785_strL_GameAvcFhdL0.flv?wsTime=6a56b4de&wsSecret=adc5022dfe4388939e4ce31f03630f3d&stat=Yzw%2FqzP%2F8psjyUPcYBAnIYtahYrq1jSwMCBpgGqT1R%2B%2F2ngYvSTjSDIC829eiO1%2B&tsc=origin&oidc=watchmen&sidc=2756&no_script=1&srcStrm=shpQ_LYhKWY&ss=s20&tfc_buyer=0
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
