@@ -1,6 +1,6 @@
 央视频道,#genre#
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV5体育,http://txycdn1.video.qq.com/1369718502.m3u8?time=1787206838&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIIfvs9pVXhGdKrgosluMoSlR6Gp6JsxnAZgtaVKznI-6EGV6ikE9hb5d_uhHsXxFhikBcLbgDBUi6gEJhd0WlGJbf2M7SDfuMyZ-vG1QKDpdX653mqdbHWr4rXxc1TvEXdpfJ_-a3rcazFwuXa5wY8xa0Il4iNrQav14v6AQR_xeTszqBVvEYeMC4rpSSSlvNLGBXyMROam77cd4rY5A1pmWFOoUl_SJrZfHNlUaMN-syz5uRr19rzjjJP6nX6QElA_8y_7QfQs9v4VQ11AwDa9cy80Vb2HqRbgA2YD65AQWmh4Ja8nAnqACtdleO5f_x9bzPPJHWftq6b6b2Ga-aIxbhCdmNCkF8TlpudTc658C9FqWXEevMBrnBfL9nentOgmGcfDKPCTfFvTaSLGHtit4ApusIzhj1XcPnxOXbSSkY59nR0kiEWqYUvsWjxcyJ7lrT7d_kjUfbOU9ca5Ngd7XzXM6cfg10nOq3pmFdq4UXEjTZaamR4ljevqfkT4mPMcFpsmKomt-1387Pd38Qip3tvS-wnVozr7XnNmejBIXz_6w&drmtype=0
+CCTV4中文国际,http://txycdn5.video.qq.com/1755787502.m3u8?time=1787206916&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIDomuWlYp219Tl0FxT4v-yaMlms0KojMq6-2hvIo2AcAEBVBYvhq3MSss_k-dhS1s98BcI0mLhEzuMLM7BmspKjt2HAautFUIu_Ly3iVK503ktUPgviJ0RdJmmLxDiaQy-PYY9dTQ4qd3rwLrragdGLn_K7b9dSBV0cqiY_c9NkijeNuZUY8p66Oa97n8JojOEgT7HtFRxtJcrNnBv7T85aIOuFgjPuYp_1eBXAolZSjNkNerQKZxecmtGVJupHDu5nokzf7ZQrtHQ6qZUYs3UAbaEVLOwpKy2qTT3BP8DmhM2eGoIdyjiac0tNIWYvr7MdHJA_w7QeCtrW2npWaJnl5L9tuAISPQYzwyMO24lSIHHwe-wrkLleWvEyPxNpCgNO3S4N-mvKgCrEJbJqIVWsJjFZaNMq3CBeJyBuyp4alD4bvCPhnuLZmH4WN9uZXGz-6SLO7tRhEwNElJLRPIWMBTfqwdmXFI3N58zTXJcAbERnIu4HrhHMGPbMPIqkqrCxnfu5fByLEjhlnLQWJkTdQulbJQ4rN3eUaZ8VssYpNqo6W&drmtype=0
 CCTV9纪录,http://play.kankanlive.com/live/1698423397390920.m3u8
 CCTV13新闻,http://pull-hls-f26.douyincdn.com/media/stream-696306310906118828.m3u8?expire=6a8d5746&sign=d415680ac5adeccaeaf5d24335908baf&arch_hrchy=w1&major_anchor_level=common&exp_hrchy=w1&t_id=037-202608181650131EE478D175EECAD9FA7F-F39U3V
 CCTV13新闻,http://pull-hls-f1.douyincdn.com/media/stream-696342147108700844/playlist.m3u8?keeptime=00093a80&wsSecret=d4b80ff7651250dec0e463b6f3a1b505&wsTime=6a841cae&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260818164949045B427CEEFF3B43A3C7-l8XB5o
@@ -29,8 +29,8 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东移动,http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
-广东少儿,http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://183.234.143.5:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
+广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南地区,#genre#
 浙江地区,#genre#
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
@@ -75,9 +75,7 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
 沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
-大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
-如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
@@ -117,6 +115,7 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 重庆地区,#genre#
 辽宁地区,#genre#
 四川地区,#genre#
+泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
@@ -268,7 +267,6 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 新密新闻频道,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 湖北地区,#genre#
 山东地区,#genre#
-菏泽2,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 新疆地区,#genre#
 山西地区,#genre#
 天津地区,#genre#
@@ -317,11 +315,8 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 宁夏地区,#genre#
 青海地区,#genre#
 超清频道,#genre#
-CCTV5超清,http://txycdn2.video.qq.com/1369718502.m3u8?time=1787206887&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIEMk6Jfnc_9-A1gOr2i1eqki0bl3_mYghd4V9HzPMy3-ECH-DGhkFIAgY-1LXeffC0EBcPgcNQbfKr1Z8WcJTE6zW8pA6BzuDprbTSUm9aS923T9r1S8Jc3wF4uR4_E0Za2NrWj6HFLOPlV_MF-meRptL3ibPYuVcuemaCKMwFbj9RB3tkkrhUW1JfOUB12lcjTcSWMYuR07BSLBB3r2CLdGOsFtCCvuW2YSvmS6VE0t6si-CJUgR4B76tHFpQXSe0E-2eMSoA-LUo6RW_lzvhc3wvJfNo1bQyK_A0Szm0VCT0GsD_9pKFGFtSsXxID-b6XubcUvq4WjcmWP8MF7m_sE2EPgFc6uJXulOwP4GB9ZZyjDP9_6vL2x8DhGK7V601SKMS1iqw5lV8h0zI7xrKJLcjNWVE4qii9XB013KRl8pFv8hoJ28-ncQqyGZsjQyAO1N56p7scD-6uTj0XgW2TVk_zPWXSGSReq8cq7p-x48tQ9GyezANEV0s_BL-tlqXzRxFbyCTpFDhFPiSvpUb8GGENoY03gWwRab5rmi_KarPnD&drmtype=0
-CCTV8超清,http://txycdn7.video.qq.com/1370436702.m3u8?time=1787206711&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIJ0fDVVGmUsj4PlATYD0lPTEQEMwSjZ8duj9hsJr3cJ5EBlaOdAT5qCaGFzElTsIks8BcG5ZHMgAGdVOiUp3WGb9o0mRBurlpQypSmQZ22D6eWUWX6WbTfqZikOR2uZjilJAfb2tYCINOUmat_nAw4sZFZDC3y7OxzgpirAgxUACrHH2xvtWzJb0Detdc-SU_GgPhpgGeE4b2xXNCYKI4eDSkwQV1dU3nr_tjtgwAzrqfOpjgqdNmvpTGDVhOU47unbCiylZaZSWGaw0RweYkQSQzdpozre1IBkIx172y8wtrgIox0vJ5nR2QeWcKjGI7geMjrUsNZWAdZuZpy25Ff2PfzFyTo-ZLmJMBpsVtcTLCXmY2lwxmgAFVC7Nz2BlyKjosnnFZrKtyayGMDip9k7HD39UbyrsY2torJkM8xdIWfkA3VpZwF-HcJngEP4YR3wFl2lEfNtODfvTBCbh5inBM3yHXl0syiqYzPtNZPc_pF3MkVvJlmjgNILogZdeDWcaooT_nPwPCXOVnYWlP4JAJhDMeXCrtV0cedjCGI9uSVv_&drmtype=0
 CCTV13超清,http://pull-hls-f1.douyincdn.com/media/stream-696342147108700844/playlist.m3u8?keeptime=00093a80&wsSecret=d4b80ff7651250dec0e463b6f3a1b505&wsTime=6a841cae&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20260818164949045B427CEEFF3B43A3C7-l8XB5o
 CCTV13超清,http://pull-hls-f26.douyincdn.com/media/stream-696306310906118828.m3u8?expire=6a8d5746&sign=d415680ac5adeccaeaf5d24335908baf&arch_hrchy=w1&major_anchor_level=common&exp_hrchy=w1&t_id=037-202608181650131EE478D175EECAD9FA7F-F39U3V
-CCTV13超清,http://txycdn3.video.qq.com/1369932002.m3u8?time=1787206468&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIElgQw2bA4esNeMS3avgVnc6UXhjk4Vbku_Ql2SRFKdUEMW84K5Wh-b5DyE-CXviG1kBcCM2X6zeq3fEFPgLlwb36898xRboMj_DR1s9R0uRaT0XX0-MUnOHLjyL7DHeJQtn7X37X0vva8QcLInY1VU6xL_A1OOfCUrz7lnYwbS3mwNI001uiqm_dMkMUWBzzu4nkWGYjPlxkLCxsDIOKLUJIrG3j-xrO8hNedVq2ydJFXgL-z-k4pLbmBM9YJDJHzTfC4-SWeu08_cMic3hIteNq6l4gXUds_mUMcq7qLZi0Fe0VvZgoVOhomHDwrs3lA0krI8DKVJUJtQfrJkF8SvGv8GfKdt0SDnz4iztaBDO5Jci3AUu6jHxtJBeqnNjkNAAr-V-NQid_OculVieH2cPBAkqge_8Ij4Fz1fr4qedv1tAKYSxHFbq1QojDL0l2zDPMsNKMBPAGUY95ne7Ol1UZTJWgluGZuziEeqsKPAB8dVpdRZ3LEt218t6xxrChP1tHpACK60fJJj-RNPybgeB-W0-vczY7KWx0W5Ela9jHG6U&drmtype=0
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
